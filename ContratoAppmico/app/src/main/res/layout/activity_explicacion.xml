@@ -13,11 +13,7 @@
         android:layout_height="wrap_content"
         android:textSize="20dp"
         android:justificationMode="inter_word"
-        android:text="El Contrato Álmico (Soul Contract),
-        también Contrato Prenatal, es un acuerdo que haces antes de encarnar en esta vida.
-        Antes de nacer, firmas un contrato con tus padres y la gente con la que experimentarás esta vida.
-        Este contrato puede tener premios, tesoros, cosas buenas que vivirás; pero también se firma el KARMA que deseas
-        limpiar en esta existencia."/>
+        android:text="@string/expl_contrato"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,8 +21,7 @@
         android:paddingBottom="30dp"
         android:textSize="20dp"
         android:justificationMode="inter_word"
-        android:text="El CONTRATO ÁLMICO se calcula a raíz del nombre completo y usando la Gematría hebrea. La Gematría es un método de interpretación de nombres, palabras y frases
-         hebreas basadas en la asignación de valor numérico a cada carácter del alfabeto hebreo. Parecida a la numerología."/>
+        android:text="@string/expl_contrato2"/>
 
     <Button android:id="@+id/gematrix"
         android:layout_width="match_parent"

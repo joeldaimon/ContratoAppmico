@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "nombre": "El Mago",
+    "etiquetas": [
+      "Acción",
+      "Manifestar",
+      "Lograr"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "mago.png"
+  },
+  {
+    "id": 2,
+    "nombre": "La Papisa",
+    "etiquetas": [
+      "Brujería",
+      "Intuición",
+      "Atraer"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "papisa.png"
+  },
+  {
+    "id": 3,
+    "nombre": "La Emperatriz",
+    "etiquetas": [
+      "Fertilidad",
+      "Amor",
+      "Crear"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "emperatriz.png"
+  },
+  {
+    "id": 4,
+    "nombre": "El Emperador",
+    "etiquetas": [
+      "Proyectos",
+      "Éxito",
+      "Riqueza"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "emperador.png"
+  },
+  {
+    "id": 5,
+    "nombre": "El Papa",
+    "etiquetas": [
+      "Beneplácito",
+      "Creencias",
+      "Estructuras"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "papa.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Los Enamorados",
+    "etiquetas": [
+      "Decisión",
+      "Amor",
+      "Encrucijada"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "lovers.png"
+  },
+  {
+    "id": 7,
+    "nombre": "El Carro",
+    "etiquetas": [
+      "Oportunidad",
+      "Logros",
+      "Caminos"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "carro.png"
+  },
+  {
+    "id": 8,
+    "nombre": "La Fuerza",
+    "etiquetas": [
+      "Control",
+      "Pasión",
+      "Empatía"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "fuerza.png"
+  },
+  {
+    "id": 9,
+    "nombre": "El Ermitaño",
+    "etiquetas": [
+      "Soledad",
+      "Introspección",
+      "Rechazar"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "hermit.png"
+  },
+  {
+    "id": 10,
+    "nombre": "La Rueda de la Fortuna",
+    "etiquetas": [
+      "Destino",
+      "Fluir",
+      "Suerte"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "rueda.png"
+  },
+  {
+    "id": 11,
+    "nombre": "La Justicia",
+    "etiquetas": [
+      "Karma",
+      "Se hará justicia",
+      "Cosecha"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "justicia.png"
+  },
+  {
+    "id": 12,
+    "nombre": "El Colgado",
+    "etiquetas": [
+      "Acción",
+      "Maniestar",
+      "Lograr"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "colgado.png"
+  },
+  {
+    "id": 13,
+    "nombre": "La Muerte",
+    "etiquetas": [
+      "Cambios",
+      "Transformación",
+      "Dejar atrás el pasado"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "muerte.png"
+  },
+  {
+    "id": 14,
+    "nombre": "La Templanza",
+    "etiquetas": [
+      "Equilibrio",
+      "Serenidad",
+      "Disciplina"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "no",
+    "imagen": "templanza.png"
+  },
+  {
+    "id": 15,
+    "nombre": "El Diablo",
+    "etiquetas": [
+      "Pasión",
+      "Tentación",
+      "Maldad"
+    ],
+    "inicio": "pasional y venenosa",
+    "nudo": "pasión sexual o un beneficio económico",
+    "final": "tóxico, esa persona es venenosa",
+    "respuesta": "no",
+    "imagen": "diablo.png"
+  },
+  {
+    "id": 16,
+    "nombre": "La torre",
+    "etiquetas": [
+      "Destrucción",
+      "Cambio negativo",
+      "Ruina"
+    ],
+    "inicio": "destructiva y limitante",
+    "nudo": "una ruptura",
+    "final": "aniquilador y doloroso, deberemos dejar a esa persona atrás",
+    "respuesta": "no",
+    "imagen": "torre.png"
+  },
+  {
+    "id": 17,
+    "nombre": "La estrella",
+    "etiquetas": [
+      "Comunicación",
+      "Unión",
+      "Vibración"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "star.png"
+  },
+  {
+    "id": 18,
+    "nombre": "La Luna",
+    "etiquetas": [
+      "Engaño",
+      "Tristeza",
+      "Sombras"
+    ],
+    "inicio": "engañosa",
+    "nudo": "engaños, mentiras y tristezas",
+    "final": "desastroso, descubrirás algo terrible",
+    "respuesta": "no",
+    "imagen": "luna.png"
+  },
+  {
+    "id": 19,
+    "nombre": "El Sol",
+    "etiquetas": [
+      "Acción",
+      "Éxito",
+      "Pasión"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "sol.png"
+  },
+  {
+    "id": 20,
+    "nombre": "El Juicio",
+    "etiquetas": [
+      "Liberación",
+      "Cambios",
+      "Escucha el llamado"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "si",
+    "imagen": "juicio.png"
+  },
+  {
+    "id": 21,
+    "nombre": "El Mundo",
+    "etiquetas": [
+      "Plenitud",
+      "Éxito",
+      "Espiritualidad"
+    ],
+    "inicio": "con una persona encantadora",
+    "nudo": "éxitos gracias a la manifestación",
+    "final": "éxitoso, se logra lo que se desea",
+    "respuesta": "sí",
+    "imagen": "mundo.png"
+  },
+  {
+    "id": 22,
+    "nombre": "El Loco",
+    "etiquetas": [
+      "Inicios",
+      "Seguir intuición",
+      "Impulsividad"
+    ],
+    "inicio": "impulsiva e inestable emocionalmente",
+    "nudo": "explosiones emocionales",
+    "final": "inestable, puede que se busque a otra persona",
+    "respuesta": "sí",
+    "imagen": "loco.png"
+  }
+]

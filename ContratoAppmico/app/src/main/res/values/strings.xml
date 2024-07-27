@@ -11,12 +11,23 @@
     <string name="autor_action">Creador de la App</string>
     <string name="explicacion_activity">Qué es el Contrato Álmico</string>
 
-    <!-- Menu -->
+    <!-- ELEMENTOS -->
     <string name="karma_fisico">1. Karma físico: karma a sanar en el mundo material.</string>
     <string name="karma_esp">2. Karma espiritual: karma a sanar en mundo espiritual.</string>
     <string name="talento_fisico">3. Talento físico: dones para ser feliz en tu vida terrenal.</string>
     <string name="talento_esp">4. Talento espiritual: dones místicos para tener plenitud.</string>
     <string name="mision_fisico">5. Misión físico: terrenal, algo externo que debes hacer.</string>
     <string name="mision_esp">6. Misión espiritual: algo interno que sanar.</string>
+
+
+    <!-- EXPLICACION -->
+    <string name="expl_contrato">El Contrato Álmico (Soul Contract), también Contrato Prenatal, es un acuerdo que haces antes de encarnar en esta vida.
+    Antes de nacer, firmas un contrato con tus padres y la gente con la que experimentarás esta vida.
+    Este contrato puede tener premios, tesoros, cosas buenas que vivirás; pero también se firma el KARMA que deseas limpiar en esta existencia.</string>
+    <string name="expl_contrato2">El CONTRATO ÁLMICO se calcula a raíz del nombre completo y usando la Gematría hebrea. La Gematría es un método de interpretación de nombres, palabras y frases hebreas basadas en la asignación de valor numérico a cada carácter del alfabeto hebreo. Parecida a la numerología.</string>
+
+
+
+
 
 </resources>

@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">SegundoCursoKotlin</string>
-    <string name="settings_darkmode_name">Modo oscuro</string>
-    <string name="settings_darkmode_description">Activa el modo oscuro en la aplicación</string>
-    <string name="settings_bluetooth_name">Activa Bluetooth</string>
-    <string name="settings_bluetooth_description">Conecta periféricos sin cables</string>
-    <string name="settings_volume_name">Volumen</string>
-    <string name="settings_vibration_name">Vibrar en las llamadas</string>
-</resources>

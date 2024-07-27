@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contrato Álmico</string>
+    <string name="contrato_almico">Contrato Almico</string>
+    <string name="escribe_nombre">Escribe tu nombre completo: </string>
+    <string name="error_nombre">El nombre no puede estar vacío.</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+
+    <!-- Menu -->
+    <string name="que_es_action">Qué es Contrato Álmico</string>
+    <string name="autor_action">Creador de la App</string>
+    <string name="explicacion_activity">Qué es el Contrato Álmico</string>
+
+    <!-- Menu -->
+    <string name="karma_fisico">1. Karma físico: karma a sanar en el mundo material.</string>
+    <string name="karma_esp">2. Karma espiritual: karma a sanar en mundo espiritual.</string>
+    <string name="talento_fisico">3. Talento físico: dones para ser feliz en tu vida terrenal.</string>
+    <string name="talento_esp">4. Talento espiritual: dones místicos para tener plenitud.</string>
+    <string name="mision_fisico">5. Misión físico: terrenal, algo externo que debes hacer.</string>
+    <string name="mision_esp">6. Misión espiritual: algo interno que sanar.</string>
+
+</resources>

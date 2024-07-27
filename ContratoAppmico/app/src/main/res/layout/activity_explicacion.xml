@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    tools:context=".menu.ExplicacionActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:justificationMode="inter_word"
+        android:text="El Contrato Álmico (Soul Contract),
+        también Contrato Prenatal, es un acuerdo que haces antes de encarnar en esta vida.
+        Antes de nacer, firmas un contrato con tus padres y la gente con la que experimentarás esta vida.
+        Este contrato puede tener premios, tesoros, cosas buenas que vivirás; pero también se firma el KARMA que deseas
+        limpiar en esta existencia."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:textSize="20dp"
+        android:justificationMode="inter_word"
+        android:text="El CONTRATO ÁLMICO se calcula a raíz del nombre completo y usando la Gematría hebrea. La Gematría es un método de interpretación de nombres, palabras y frases
+         hebreas basadas en la asignación de valor numérico a cada carácter del alfabeto hebreo. Parecida a la numerología."/>
+
+    <Button android:id="@+id/gematrix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gematrix"/>
+
+    <Button android:id="@+id/billheidrick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="billheidrick Gematria"/>
+
+</LinearLayout>
